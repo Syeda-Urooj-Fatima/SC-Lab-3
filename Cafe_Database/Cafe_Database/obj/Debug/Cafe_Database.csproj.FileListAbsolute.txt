@@ -1,0 +1,11 @@
+c:\users\ok\documents\visual studio 2017\Projects\Cafe_Database\Cafe_Database\bin\Debug\Cafe_Database.mdf
+c:\users\ok\documents\visual studio 2017\Projects\Cafe_Database\Cafe_Database\bin\Debug\Cafe_Database_log.ldf
+c:\users\ok\documents\visual studio 2017\Projects\Cafe_Database\Cafe_Database\bin\Debug\Cafe_Database.exe.config
+c:\users\ok\documents\visual studio 2017\Projects\Cafe_Database\Cafe_Database\bin\Debug\Cafe_Database.exe
+c:\users\ok\documents\visual studio 2017\Projects\Cafe_Database\Cafe_Database\bin\Debug\Cafe_Database.pdb
+c:\users\ok\documents\visual studio 2017\Projects\Cafe_Database\Cafe_Database\obj\Debug\Cafe_Database.csprojResolveAssemblyReference.cache
+c:\users\ok\documents\visual studio 2017\Projects\Cafe_Database\Cafe_Database\obj\Debug\Cafe_Database.Properties.Resources.resources
+c:\users\ok\documents\visual studio 2017\Projects\Cafe_Database\Cafe_Database\obj\Debug\Cafe_Database.csproj.GenerateResource.Cache
+c:\users\ok\documents\visual studio 2017\Projects\Cafe_Database\Cafe_Database\obj\Debug\Cafe_Database.csproj.CoreCompileInputs.cache
+c:\users\ok\documents\visual studio 2017\Projects\Cafe_Database\Cafe_Database\obj\Debug\Cafe_Database.exe
+c:\users\ok\documents\visual studio 2017\Projects\Cafe_Database\Cafe_Database\obj\Debug\Cafe_Database.pdb
